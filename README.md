@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **safaidamhamed@gmail.com**
 
-- ⚡ Fun fact **i love to painting**
+- ⚡ Fun fact **i love  painting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
