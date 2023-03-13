@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **😂everything**
 
 - 📫 How to reach me **safaidamhamed@gmail.com**
 
-- ⚡ Fun fact **chatgpt**
+- ⚡ Fun fact **i love to painting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
