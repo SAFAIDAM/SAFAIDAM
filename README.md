@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAFA IDAM HAMED</h1>
 <h3 align="center">A passionate Web developer from Morocco</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **programming**
-
 - 📫 How to reach me **idamhamedsafa@gmail.com**
 
 - ⚡ Fun fact **I love coding**
